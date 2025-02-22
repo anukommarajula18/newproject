@@ -1,1 +1,1 @@
-[new project](https://your-project-url.com)
+[new project](https://new-project-url.com)
